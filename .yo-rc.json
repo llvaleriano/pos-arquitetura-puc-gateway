@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "br.gov.bomdestino.apigateway"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "br.gov.bomdestino.apigateway",
+    "packageFolder": "br/gov/bomdestino/apigateway",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmFjYzc4NjlkMzNhODI4N2M3MDhmYmNlZGIxZWJmNzE0NDAyMzdmZWVkOTUwOTdkYzY4YmU3NTEyYWQ5YzdlNmFhODU5ZWU0ZGEzZmE3YWU5MDEyMTU0ZDgwNzAzMjc1MDhkYTU3MTg4ZjllM2ExYjc3MWMxYzAzMjhjMGNlZjU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1615638591385,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
